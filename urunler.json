@@ -38,24 +38,24 @@
  {
  "id": 7,
         "name": "Çağdaş Siyasal Teori Ders Notları",
-        "price": "70"
+        "price": "70",
         "url": "https://github.com/iremkalayci/ProductsImages/blob/main/SIYSASET.png?raw=true"
 },
 {
  "id": 8,
         "name": "Python-Atıl Samancıoğlu,2.El ",
-        "price": "200"
+        "price": "200",
         "url": "https://github.com/iremkalayci/ProductsImages/blob/main/PYTHON.jpg?raw=true"
 },
  { "id":9,
    "name":"PDR Eğitime Giriş Ders Notları",
-"price":"120"
+"price":"120",
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/PDR.png?raw=true"
 },
 { "id":10,
 "name":"KOÜ Hukuk Fakültesi Miras Hukuku Ders Notları",
 
-"price":"180"
+"price":"180",
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/M%C4%B0RASHUKUKU.png?raw=true"
 
 },
@@ -63,25 +63,25 @@
 
 {"id":11,
 "name":"Murat Yücedağ C# Kitabı 2.El",
-"price":"180"
+"price":"180",
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/MURATYUCEDAG_C%23.jpg?raw=true"
 },
 
 {"id":12,
 "name":"KOÜ Hukuk Fakültesi Medeni Hukuk Ders Notları"
-"price":"280"
+"price":"280",
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/MEDEN%C4%B0%20HUKUK.png?raw=true"
 },
 
 {"id":13,
 "name":"KOÜ İşletme Fak. Hukukun Temel Kavramları Ders Notları"
-"price":"90"
+"price":"90",
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/ISLETME.png?raw=true"
 },
 
 {"id":14,
 "name":"KOÜ Tıp Fak. Genetik ve Gelişim Biyo. Ders Notları"
-"price":"170"
+"price":"170",
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/GENET%C4%B0KGEL%C4%B0S%C4%B0M.png?raw=true"
 
 }
